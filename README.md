@@ -62,8 +62,7 @@ in the water. It appeared to move in the direction of the propeller with moderat
 "seat" of the hot tub. After being pulled back and moving forward three times, drill bit became unglued from the 
 wooden shaft.
 
-A [video of the experiment]() is avaible at our channel on YouTube.
-
+A [video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible at our channel on YouTube.
 
 # License
 
