@@ -46,6 +46,24 @@ It appears from our experiment that they do---that these streams move "backward"
 whatever force is on the cones, producing streamlines which in gneral move backward, producing a
 thrust on the "ice cream cone" in the directon of the ice cream ball (and away from the cone.)
 
+# Experiment
+
+Building an experimental apparatus to measure the thrust produced by rotary propulsion mechanism is non-trivial.
+Even more difficult is to measure the power efficiency of the "propeller", although in the end that is a very
+interesting question. 
+I designed an experiment to measure only if it provides a thrust at all.
+
+I cut a long drill bit and glued it to the square wooden shaft that I had fitted into the unscrew propeller. 
+Then I found a piece of styrofoam and duct-taped a battery-powered rotary drill to foam, creating a simple
+boat, which a "propeller" shaft projecting down into the water with the unscrew propeller attached.
+
+Then using a hot-tub, which is about 6 feet across, I zip-tied the trigger of the drill down and placed the boat
+in the water. It appeared to move in the direction of the propeller with moderate force until it smacked into the 
+"seat" of the hot tub. After being pulled back and moving forward three times, drill bit became unglued from the 
+wooden shaft.
+
+A [video of the experiment]() is avaible at our channel on YouTube.
+
 
 # License
 
