@@ -67,6 +67,25 @@ A [video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible a
 
 ![Screen Shot 2023-01-29 at 5 56 25 PM](https://user-images.githubusercontent.com/5296671/215363424-7c9254d9-e2df-47a0-98e2-966799cd4397.png)
 
+# A Risk
+
+It is just barely possible, but unlikely that the propulsion observed only occured because it was tested in a closed vessel
+(which support weird currents and reflections in ways that deep open water would not.) Testing in a larger pool
+should elimininate this risk. I consider unlikely.
+
+# Seeking Collaborators
+
+As the Head Invention Coach of Public Invention, I am very busy. The goal of Public Invention is to in in the public---
+that means you, gentle reader, are invited to collaborate. I would love for a mechanical engineer to assit me in
+fully exploring this idea. A start would be to measure thrust as a function of rotational velocity.
+
+No doubt the shape which I started with, which was easy to create in OpenSCAD, is not the optimal shape for this purpose.
+
+Measuring the actual power efficiency of the unscrew propeller require measuring thrust at various speeds (via towing)
+or a Computational Fluid Dynamics simulation. I am capable of learning CFD but have other priorities on my time.
+
+This work would certainly produce a good academic paper, I think.
+
 # License
 
 This text is licensed under Creative Commons By Attribution. The Hardware Designs herein are licensed under the CERN OHL Strongly Reciprocal V2.  The OpenSCAD code is licensed under Affero GPL v. 3.
