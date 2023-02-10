@@ -67,6 +67,12 @@ A [video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible a
 
 ![Screen Shot 2023-01-29 at 5 56 25 PM](https://user-images.githubusercontent.com/5296671/215363424-7c9254d9-e2df-47a0-98e2-966799cd4397.png)
 
+# Possibility of use as a Turbine
+
+Christina Cole @Christinacole suggested something I had not thought of---the possibility that this could be reversed to 
+create a generator. This is strange because it is not clear which way it would spin. I thank her for this idea and it 
+is definitely worth exploring.
+
 # A Risk
 
 It is just barely possible, but unlikely that the propulsion observed only occured because it was tested in a closed vessel
