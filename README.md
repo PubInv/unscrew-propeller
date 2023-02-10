@@ -69,7 +69,7 @@ A [video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible a
 
 # Possibility of use as a Turbine
 
-Christina Cole @Christinacole suggested something I had not thought of---the possibility that this could be reversed to 
+[Christina Cole](https://github.com/christinacole)  suggested something I had not thought of---the possibility that this could be reversed to 
 create a generator. This is strange because it is not clear which way it would spin. I thank her for this idea and it 
 is definitely worth exploring.
 
