@@ -71,7 +71,10 @@ A [video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible a
 
 [Christina Cole](https://github.com/christinacole)  suggested something I had not thought of---the possibility that this could be reversed to 
 create a generator. This is strange because it is not clear which way it would spin. I thank her for this idea and it 
-is definitely worth exploring.
+is definitely worth exploring. Nonetheless we imgaine the unscrew provides the same propulsion (not reversed!) whether spinning 
+clockwise or counter-clockwise. So a higher fluid flow would simply induce a high spin in the unscrew, whichever way it 
+began spinning at the beginning, which might be mathematically determinant, just as a ballbearing will always fall off a marble,
+but an ideal ball bearing place on an ideal marble does not mathematically fix the direction in which it will fall.
 
 # A Risk
 
