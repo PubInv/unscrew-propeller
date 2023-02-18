@@ -94,7 +94,7 @@ This work would certainly produce a good academic paper.
 
 # Potential Experimental Apparatus moving Forward
 
-In general we would like to measure the propulsive efficiency of the unscrew propeller. This is defined as the work done moving 
+In general we would like to measure the [propulsive efficiency](https://en.wikipedia.org/wiki/Propulsive_efficiency) of the unscrew propeller. This is defined as the work done moving 
 forward vs. the energy put into the rotation of the propeller. This is quite difficult to measure. 
 For a start, it means the apparatus must travel, or the water moved by the apparatus must travel and be measured. 
 
@@ -102,6 +102,8 @@ A simpler approach
 is simply to measure the force produced as a function of rpm and compare that to, for example, a different design.
 This approach at least allows thrust to be measured against rpm; but rpm by itself cannot be equated to force or work,
 because the resistanc of an object to being spun varies wildly.
+
+We need assitance from a mechanical engineer who can design an effective experiment for measuring the propulsive efficiency of the unscrew propeller.
 
 
 
