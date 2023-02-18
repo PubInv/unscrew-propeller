@@ -103,7 +103,7 @@ is simply to measure the force produced as a function of rpm and compare that to
 This approach at least allows thrust to be measured against rpm; but rpm by itself cannot be equated to force or work,
 because the resistanc of an object to being spun varies wildly.
 
-We need assitance from a mechanical engineer who can design an effective experiment for measuring the propulsive efficiency of the unscrew propeller.
+We need assitance from a mechanical engineer who can design an effective experiment for measuring the propulsive efficiency of the unscrew propeller. [This reference](https://heliciel.com/en/helice/calcul-helice-aile/rendement-helice-propulsive.htm) may be useful.
 
 
 
