@@ -105,6 +105,14 @@ because the resistanc of an object to being spun varies wildly.
 
 We need assitance from a mechanical engineer who can design an effective experiment for measuring the propulsive efficiency of the unscrew propeller. [This reference](https://heliciel.com/en/helice/calcul-helice-aile/rendement-helice-propulsive.htm) may be useful.
 
+It is possible that we would have to build a pipe, place a propeller in the pipe, submerge the entire pipe in water, and
+then measure the massflow and velocity of the water through the pipe, if we can regularize the flow at exhaust, so that each part 
+of the water is traveling the same velocity. The Kinetic power imparted to the stream is thus 0.5 * Mass flow * speed ^2. We can 
+treat the downstream flow as zero, unless we are moving the entire pipe through the water (which might indeed change the Kinetic Power,
+since we know that screws will change their power as the blade angle is tuned to velocity of the flow.
+
+
+
 
 
 # License
