@@ -95,6 +95,8 @@ or a Computational Fluid Dynamics simulation. I am capable of learning CFD but h
 
 This work would certainly produce a good academic paper.
 
+Please write to <a href="mailto:read.robert@pubinv.org">read.robert@pubinv.org<a> if you would like to discuss this idea or volunteering for it.
+
 # Potential Experimental Apparatus moving Forward
 
 In general we would like to measure the [propulsive efficiency](https://en.wikipedia.org/wiki/Propulsive_efficiency) of the unscrew propeller. This is defined as the work done moving 
