@@ -14,8 +14,7 @@ thrust which may be safer than screw-based propellers.
 
 # The Unscrew Propeller
 
-In November of 2022 I developed this idea and ordered three-d printed parts, which arrived in January 2023. After making a test apparatus, I was surprised that it seemd to actually work on the first try. My apparatus was powered by a 
-rotary battery-powered drill with the trigger zip-tied down.
+In November of 2022 I developed this idea and ordered three-d printed parts, which arrived in January 2023. After making a test apparatus, I was surprised that it seemd to actually work on the first try. 
 
 The idea was to make a shape that was as little like a screw as possible. Inspired by the Coanda effect
 and the fact that jets of rapidly moving fluid tend to stay in contact with objects that change shape slowly,
@@ -24,10 +23,10 @@ Furthermore, I wanted the shape to have no sharp edges, but rather to be as clos
 Of course, if you spin any shape in water, it will tend to impart a spin to the water. Spinning wanter is
 subject to centrifugal force, yet also feels a force keeping it in contact with the object.
 Thus the idea was to design a shape such that water spinning away from the object would have at least
-some radial motion, and therfore thrust.
+some radial motion, and therefore thrust.
 
 A cone would accomplish this, but in a way that is not obviously useful. Instead, we imagine a 
-hemisphere, which is a good beginning of a hydronymaic shape. By adding gentle "lobes" to this shape,
+hemisphere, which is a good beginning of a hydrodymaic shape. By adding gentle "lobes" to this shape,
 themselves roughly hemispheric, we could create a shape with no abrupt edges, but which would exert rotational
 force on the water.
 
@@ -67,6 +66,7 @@ A [video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible a
 
 ![Screen Shot 2023-01-29 at 5 56 25 PM](https://user-images.githubusercontent.com/5296671/215363424-7c9254d9-e2df-47a0-98e2-966799cd4397.png)
 
+
 # Possibility of use as a Turbine
 
 [Christina Cole](https://github.com/christinacole)  suggested something I had not thought of---the possibility that this could be reversed to 
@@ -90,7 +90,20 @@ No doubt the shape which I started with, which was easy to create in OpenSCAD, i
 Measuring the actual power efficiency of the unscrew propeller require measuring thrust at various speeds (via towing)
 or a Computational Fluid Dynamics simulation. I am capable of learning CFD but have other priorities on my time.
 
-This work would certainly produce a good academic paper, I think.
+This work would certainly produce a good academic paper.
+
+# Potential Experimental Apparatus moving Forward
+
+In general we would like to measure the propulsive efficiency of the unscrew propeller. This is defined as the work done moving 
+forward vs. the energy put into the rotation of the propeller. This is quite difficult to measure. 
+For a start, it means the apparatus must travel, or the water moved by the apparatus must travel and be measured. 
+
+A simpler approach
+is simply to measure the force produced as a function of rpm and compare that to, for example, a different design.
+This approach at least allows thrust to be measured against rpm; but rpm by itself cannot be equated to force or work,
+because the resistanc of an object to being spun varies wildly.
+
+
 
 # License
 
