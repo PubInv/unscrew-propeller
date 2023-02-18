@@ -114,6 +114,30 @@ of the water is traveling the same velocity. The Kinetic power imparted to the s
 treat the downstream flow as zero, unless we are moving the entire pipe through the water (which might indeed change the Kinetic Power,
 since we know that screws will change their power as the blade angle is tuned to velocity of the flow.
 
+We could then measure the actual work we do on the unscrew. Ideally this would be done by measuring torque and the number of rotations,
+but we could approximate it by measuring the product of voltage and amperage when driving an efficient electric motor.
+
+# What if the Unscrew is much less efficent than a Screw?
+
+If the unscrew is less efficient than a screw, than it would not be useful for most applications of actual transport (that is, shipping or boating.) 
+However, there may still be applications in which an unscrew is preferred, such as assuring the saftey of whales.
+
+# How would you actually use it?
+
+The Unscrew could be mounted onto an outboard motor very much like a screw is (note the unscrew propels in the direction oof the lobes).
+But more intesting would be to make a very large, relatively slowly turning unscrew the actual prow of a ship, submarine, or torpedo.
+The "cone" would then be replaced with the hull of the craft itself. This could drasitically increase the efficiency of the total design. 
+(It would in some cases produce a torque on the craft itself, which could be countered by a keel, fin, or counter-rotatiing force which
+need not produce forward propulsion.)
+
+# How do you back up?
+
+Uhh...
+
+You can't. You have to point the whole thing around. Onlike a boat screw which can (inefficently) be simply rotate backwared to make the boat slowly move backward or to retard its velocity, you just can't do that with an unscrew.
+
+
+
 
 
 
