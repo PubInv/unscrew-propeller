@@ -4,7 +4,7 @@ There are many ways to move through water. Nature has developed the jet (squids)
 
 Yet the rotary screw propeller remains the dominent way humans move most watercraft, whether staffed or, increasingly, unstaffed (autonomous.) Human being have motors which produce rotary power efficiently and controllably.
 
-Yet the screw has the disadvantage that may be unsafe to aquatic life (and swimming humans). Additionally, it may be susceptible to fouling with lines and weeds which wrap around it.
+Yet the screw has the disadvantage that is unsafe to aquatic life (and swimming humans). Additionally, it may be susceptible to fouling with lines and weeds which wrap around it.
 For this reason, autonomous aquatic vehicles often put the propeller in a duct or shroud, which limits direct contact 
 with large objects. However, small objects and animals that can fit inside the duct are jeopardized by such propellers, in part because they tend to be drawn into them.
 
