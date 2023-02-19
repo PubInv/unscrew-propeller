@@ -119,6 +119,15 @@ since we know that screws will change their power as the blade angle is tuned to
 We could then measure the actual work we do on the unscrew. Ideally this would be done by measuring torque and the number of rotations,
 but we could approximate it by measuring the product of voltage and amperage when driving an efficient electric motor.
 
+However, the simplest way to measure it may be to purchase a cheap 12V trolling motor, and "hack" it to accept an unscrew in place of a 
+screw. This could then be mounted on a rented canoe and velocity measured in actual water. The amperage consumed by the motor might
+be slighly different and would have to be measured. However, you could then directly compare an unscrew to a screw. If we assume
+a screw is about as efficient as it can be, we can then judge an unscrew. We could qualitatively judge it to be "about as good as screw",
+"significantly less efficient than a screw" or "really, really bad compared to a screw."
+
+Since the unscrew's actual geometry was only my first guess as to a working system, there may be a lot of room for improvement in
+the design, number, depth, and shape of the "lobes".
+
 # What if the Unscrew is much less efficent than a Screw?
 
 If the unscrew is less efficient than a screw, than it would not be useful for most applications of actual transport (that is, shipping or boating.) 
