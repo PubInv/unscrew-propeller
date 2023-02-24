@@ -159,6 +159,13 @@ An additional way to test it would be to make two counter rotating unscrews with
 The two unscrews would each have their own motor. The assembly would be free to move up and down the rod.  We would then measure the weight of the 
 test apparatus with the unscrews still and the unscrews turning.  Such a rig would be useful for testing different variations in the 
 unscrew design, which could be 3D printed.
+  
+  Such a rig could be used without motors with free-spinning unscrews to the test the hypothesis that would rotate with some force if placed 
+  in a wind or moving fluid stream (even though which direction they would start is not determined by their geometry).
+  
+To make a very light-weight unscrew, we could sew the hemispherical shapes out of silk, attach them to ballons to hold their shape, and paint
+  them with brush-on epoxy.
+Or, we could 3D print very light geodesic domes as a framework covered with fabric.
 
 
 
