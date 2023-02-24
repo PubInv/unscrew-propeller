@@ -147,6 +147,20 @@ Uhh...
 
 You can't. You have to point the whole thing around. Onlike a boat screw which can (inefficently) be simply rotate backwared to make the boat slowly move backward or to retard its velocity, you just can't do that with an unscrew.
 
+# Aerial Applications
+
+The Unscrew should work essentially the same way in air or any other fluid. In fact, I originally though of this idea in an attempt to make safer flight.
+A large Unscrew could serve as a passive parachute (if the "cone" part opened or collapsed). Thus you could have powered flight, but if 
+power failed, the machine would float gently to the ground on its inherent parachute.
+
+I belive we could test by taking a standard quadcopter drown and replacing the propellers with unscrew propellers.
+
+An additional way to test it would be to make two counter rotating unscrews with an axis between them on a smooth rod. 
+The two unscrews would each have their own motor. The assembly would be free to move up and down the rod.  We would then measure the weight of the 
+test apparatus with the unscrews still and the unscrews turning.  Such a rig would be useful for testing different variations in the 
+unscrew design, which could be 3D printed.
+
+
 
 
 
