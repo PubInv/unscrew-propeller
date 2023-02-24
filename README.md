@@ -1,4 +1,4 @@
-# A Rotary Aquatic Propeller Which Is Not a Screw
+# A Rotary Aquatic or Aerial Propeller Which Is Not a Screw
 
 There are many ways to move through water. Nature has developed the jet (squids), thunniform swimming (cetaceans and tuna), carangiform swimming (trout and catfish), and whatever it is that octopuses and manatees and lobsters do.
 
