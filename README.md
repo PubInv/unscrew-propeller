@@ -169,7 +169,9 @@ Or, we could 3D print very light geodesic domes as a framework covered with fabr
 
 
 
+# Loose Notes on Test Apparatus
 
+[]()
 
 
 
