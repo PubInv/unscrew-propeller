@@ -171,7 +171,8 @@ Or, we could 3D print very light geodesic domes as a framework covered with fabr
 
 # Loose Notes on Test Apparatus
 
-[]()
+I have made some loose notes on builidng a test apparatus, potential applications, and some other ideas. I don't expect these to be 
+comprehensible, but Public Invention always works "in the light".  [Here they are.](https://github.com/PubInv/unscrew-propeller/blob/main/April%204th%20Notes.pdf)
 
 
 
