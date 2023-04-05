@@ -62,9 +62,11 @@ in the water. It appeared to move in the direction of the propeller with moderat
 wooden shaft.
 
 
-A [video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible at our channel on YouTube.
+A [short video of the experiment](https://youtube.com/shorts/lgh7gO7JHxQ) is avaible at our channel on YouTube.
 
 ![Screen Shot 2023-01-29 at 5 56 25 PM](https://user-images.githubusercontent.com/5296671/215363424-7c9254d9-e2df-47a0-98e2-966799cd4397.png)
+
+A [longer more complete video](https://www.youtube.com/watch?v=HbwR0hAUKOM&t=28s) may inform the interested.
 
 
 # Possibility of use as a Turbine
