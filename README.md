@@ -1,3 +1,19 @@
+# Update - May 2026
+
+Our current design is different than what is shown below. We currently believe contra-rotation portions of a hemisphere in the nose of a tear-drop shaped housing 
+will work. This was simulated by Matthew McCartney in Ansys Fluent, and it seemed promising but was somewhat inconclusive.
+
+We now believe the best approach is to test this physically, by designing a contra-rotating system (which requires a geared drive train), 
+a single small electrical motor. I would like a vounteer mechanical engineer to try to design, print, and test this system.
+
+It will be sufficient at first to prove that this system produces a flow of air. We can worry about force and efficiency later.
+
+Purchasing and 3D printing the contra-rotating gear system is non trivial, but should be possible. 
+One can find YouTube videos of this being done with Bevel gears, planetary gears, and a different system with 2 gears for the inner shaft and 
+3 gears for the outer shaft.
+
+
+We now believe the best apporach is to  
 # A Rotary Aquatic or Aerial Propeller Which Is Not a Screw
 
 There are many ways to move through water. Nature has developed the jet (squids), thunniform swimming (cetaceans and tuna), carangiform swimming (trout and catfish), and whatever it is that octopuses and manatees and lobsters do.
