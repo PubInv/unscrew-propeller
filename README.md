@@ -12,8 +12,7 @@ Purchasing and 3D printing the contra-rotating gear system is non trivial, but s
 One can find YouTube videos of this being done with Bevel gears, planetary gears, and a different system with 2 gears for the inner shaft and 
 3 gears for the outer shaft.
 
-
-We now believe the best apporach is to  
+Two such examples are shown in this short video: [https://www.youtube.com/shorts/UIdUE-qS6Yc](https://www.youtube.com/shorts/UIdUE-qS6Yc)
 # A Rotary Aquatic or Aerial Propeller Which Is Not a Screw
 
 There are many ways to move through water. Nature has developed the jet (squids), thunniform swimming (cetaceans and tuna), carangiform swimming (trout and catfish), and whatever it is that octopuses and manatees and lobsters do.
